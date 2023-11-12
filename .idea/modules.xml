@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Desafio/Desafio.iml" filepath="$PROJECT_DIR$/Desafio/Desafio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeiraClasse/PrimeiraClasse.iml" filepath="$PROJECT_DIR$/PrimeiraClasse/PrimeiraClasse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadora-imposto/calculadora-imposto.iml" filepath="$PROJECT_DIR$/calculadora-imposto/calculadora-imposto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/curso-java.iml" filepath="$PROJECT_DIR$/.idea/curso-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-javaoop/desafio-javaoop.iml" filepath="$PROJECT_DIR$/desafio-javaoop/desafio-javaoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios-while/exercicios-while.iml" filepath="$PROJECT_DIR$/exercicios-while/exercicios-while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeiroprograma/primeiroprograma.iml" filepath="$PROJECT_DIR$/primeiroprograma/primeiroprograma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/screen_match/screen_match.iml" filepath="$PROJECT_DIR$/screen_match/screen_match.iml" />
+      <module fileurl="file://$PROJECT_DIR$/screenmatch/screenmatch.iml" filepath="$PROJECT_DIR$/screenmatch/screenmatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swtichcase/swtichcase.iml" filepath="$PROJECT_DIR$/swtichcase/swtichcase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/temperatura/temperatura.iml" filepath="$PROJECT_DIR$/temperatura/temperatura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teste/teste.iml" filepath="$PROJECT_DIR$/teste/teste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testescomjava/testescomjava.iml" filepath="$PROJECT_DIR$/testescomjava/testescomjava.iml" />
+    </modules>
+  </component>
+</project>

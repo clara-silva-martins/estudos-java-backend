@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PrimeiraClasse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculadora-imposto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/desafio-javaoop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercicios-while" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/primeiroprograma" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/screen_match" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/swtichcase" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/temperatura" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/teste" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testescomjava" vcs="Git" />
+  </component>
+</project>
